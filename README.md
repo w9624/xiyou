@@ -1,6 +1,6 @@
 # 嘻哈APP
 计算机设计大赛  
-使用的开源项目： 
+使用的开源项目：  
 SpringBoot、MySQL、redis、seafile 
 Jsceg，HanLP：实现对文章的关键词提取，进行相似度匹配  
 环信im：实现用户之间互发消息、图片等简单功能  
